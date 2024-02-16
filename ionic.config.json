@@ -1,0 +1,7 @@
+{
+  "name": "polvodasorte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
