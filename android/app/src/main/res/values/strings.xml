@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Polvo da Sorte</string>
+    <string name="title_activity_main">Polvo da Sorte</string>
+    <string name="package_name">io.ionic.polvoDaSorte</string>
+    <string name="custom_url_scheme">io.ionic.polvoDaSorte</string>
+</resources>
